@@ -64,9 +64,7 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
-      <HintPath>/Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Resources/Scripting/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
+      
     <Reference Include="UnityEngine.AMDModule">
       <HintPath>/Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Resources/Scripting/Managed/UnityEngine/UnityEngine.AMDModule.dll</HintPath>
       <Private>False</Private>
