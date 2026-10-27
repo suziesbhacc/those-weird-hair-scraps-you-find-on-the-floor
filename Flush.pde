@@ -5,8 +5,7 @@
  class Flush
 {
   //properties
-  private float x, y, rectWidth, rectHeight; //button coordinates and sizing
-  private color fill; //button colour
+  //i delted them
   
   //constructor
   public Flush(float xPos, float yPos, float rectW, float rectH, color colFill)
